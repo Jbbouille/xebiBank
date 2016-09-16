@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>com.xebia.jbbouille</groupId>
-            <artifactId>Account</artifactId>
+            <artifactId>account</artifactId>
         </dependency>
     </dependencies>
 

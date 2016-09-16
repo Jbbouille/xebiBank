@@ -17,7 +17,7 @@ public class Main {
             System.out.printf("Welcome to %s !!%n", bank.name);
 
             System.out.println("Please enter your name.");
-            String userName = sc.next();
+            String userName = sc.nextLine();
 
             Account account = bank.account(userName);
 
